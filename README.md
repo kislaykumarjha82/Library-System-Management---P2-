@@ -214,7 +214,10 @@ WHERE
     AND
     (CURRENT_DATE - ist.issued_date) > 30
 ORDER BY 1
-'''sql
+'''
+
+
+
 Task 14: Update Book Status on Return
 Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
 
@@ -392,21 +395,15 @@ Summary Reports: Aggregated data on high-demand books and employee performance.
 Conclusion
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
-How to Use
-Clone the Repository: Clone this repository to your local machine.
 
-git clone https://github.com/najirh/Library-System-Management---P2.git
-Set Up the Database: Execute the SQL scripts in the database_setup.sql file to create and populate the database.
-
-Run the Queries: Use the SQL queries in the analysis_queries.sql file to perform the analysis.
 
 Explore and Modify: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
-Author - Zero Analyst
+Author -kislay kumar jha
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 
-YouTube: Subscribe to my channel for tutorials and insights
-Instagram: Follow me for daily tips and updates
-LinkedIn: Connect with me professionally
-Discord: Join our community for learning and collaboration
+
+Instagram: https://www.instagram.com/priyanshujha82/?igsh=aGt6NDVhcHlhanpi#
+LinkedIn: https://www.linkedin.com/in/kislay-kumar-jha-7421b52a5/
+
 Thank you for your interest in this project!
